@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Virtual Stylist</string>
+    <string name="app_name_2">AI Wardrobe Stylist</string>
+    <string name="app_result">AI Wardrobe Result</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+    <string name="feedback_message">Are you satisfied with results?</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_history">Outfit History</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="SignUp">signup</string>
+    <string name="slogan">No matter where you are we will find you and feed you.</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Schedule Delivery</string>
+    <string name="slide_2_desc">Schedule your delivery and surprise your family and friends </string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best Discount on Every Order!</string>
+
+    <string name="slide_4_title">Fastest Delivery</string>
+    <string name="slide_4_desc">Fastest Delivery compared to any other Food App</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
